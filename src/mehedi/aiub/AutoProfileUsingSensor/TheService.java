@@ -85,22 +85,6 @@ public class TheService extends Service implements SensorEventListener
 				Toast.makeText(getApplicationContext(), "Normal Mode Started", Toast.LENGTH_SHORT).show();
 			}
 		}
-		
-//		else
-//		{			
-//			mode = audioManager.getRingerMode();
-//			if(mode == AudioManager.RINGER_MODE_NORMAL)
-//			{
-//				audioManager.setRingerMode(audioManager.RINGER_MODE_NORMAL);
-//			}
-//			else
-//				audioManager.setRingerMode(audioManager.RINGER_MODE_VIBRATE);
-//				
-//			
-//			Toast.makeText(getApplicationContext(), "Normal Mode Started", Toast.LENGTH_SHORT).show();
-//		}
-		
-		
 	}
 
 }
