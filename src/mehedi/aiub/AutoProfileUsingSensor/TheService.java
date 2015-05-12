@@ -24,7 +24,6 @@ public class TheService extends Service implements SensorEventListener
 	{
 		// TODO Auto-generated method stub
 		super.onCreate();
-//		Toast.makeText(getApplicationContext(), "Service Created", Toast.LENGTH_SHORT).show();
 		
 	}
 
