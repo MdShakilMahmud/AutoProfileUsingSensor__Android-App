@@ -1,4 +1,4 @@
-# AutoProfileUsingSensor
+# AutoProfileUsingSensor __ Android App
 
 #### Auto Profile using Proximity Sensor
 
